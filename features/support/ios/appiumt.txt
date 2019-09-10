@@ -1,0 +1,8 @@
+[caps]
+    platformName = "iOS"
+    platformVersion = "12.4"
+    deviceName = "iPhone 7"
+    app = "../poc_features/features/app/ios/product/application.app"
+    allowTouchIdEnroll = true
+    autoDismissAlerts = true
+    automationName = "XCUITest"
