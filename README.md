@@ -1,4 +1,4 @@
-# test_touch
+# poc_features
 
 Automação Simples App de Pagamentos
 Appium + Cucumber
